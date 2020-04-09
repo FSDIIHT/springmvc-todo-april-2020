@@ -1,12 +1,12 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
-    <groupId>net.petrikainulainen.spring.springmvctest</groupId>
+    <groupId>net.yaksha.spring.springmvctest</groupId>
     <artifactId>controllers-unittest</artifactId>
     <packaging>war</packaging>
     <version>0.1</version>
     <name>Spring MVC Test - Writing Unit Tests for Controllers</name>
-    <description>An example application that demonstrates the unit testing of "normal" Spring MVC controllers.</description>
+    <description>ToDo App</description>
     <licenses>
         <license>
             <name>Apache License 2.0</name>
